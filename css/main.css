@@ -5223,7 +5223,7 @@ Created using IcoMoon - icomoon.io
 
 /* References Style */
 .cc-reference .card {
-  padding: 40px; }
+  padding: 10px 10px 40px 10px; }
 
 .cc-reference img {
   height: 120px;
@@ -5248,6 +5248,10 @@ Created using IcoMoon - icomoon.io
     bottom: 0px; }
   .cc-reference ol {
     margin-bottom: 0; } }
+
+    .col-md-12 .certi {
+      text-align: center;
+  }
 
 /* Contact Information Style */
 .cc-contact-information {
